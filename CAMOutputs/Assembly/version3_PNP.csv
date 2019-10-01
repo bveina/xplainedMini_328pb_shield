@@ -1,0 +1,16 @@
+"Qty";"Value";"Device";"Package";"Parts";"Description";"SPICEPREFIX";
+"1";"";"R-EU_R0805";"R0805";"R15";"RESISTOR, European symbol";"R";
+"3";"0.1u";"C-EUC0805";"C0805";"C1, C2, C3";"CAPACITOR, European symbol";"C";
+"3";"10k'";"R-EU_R0805";"R0805";"R1, R2, R3";"RESISTOR, European symbol";"R";
+"3";"1X02CLEAN";"1X02CLEAN";"1X02_CLEAN";"J2, J3, J4";"";"";
+"16";"330";"R-EU_R0805";"R0805";"R4, R5, R6, R7, R8, R9, R10, R11, R12, R13, R14, R16, R17, R18, R19, R20";"RESISTOR, European symbol";"R";
+"1";"4DIG_7SEG_CATHODE";"4DIG_7SEG_CATHODE";"4DIG_7SEG_CLOCK";"U$1";"";"";
+"3";"FIDUCIAL";"FIDUCIAL";"FIDUCIAL_1MM";"AFID1, AFID2, AFID3";"For use by pick and place machines to calibrate the vision/machine, 1mm";"";
+"1";"M04F";"M04F";"1X04_FEMALE";"J1";"";"";
+"1";"M06F";"M06F";"1X06_FEMALE";"U$2";"";"";
+"5";"NPNBEC";"NPNBEC";"SOT23";"Q1, Q2, Q5, Q6, Q7";"";"";
+"3";"PUSHBUTTON";"PUSHBUTTON";"BUTTON_EVPBF";"B1, B2, B3";"";"";
+"1";"RGB_CA";"RGB_CA";"PLCC-4";"D1";"";"";
+"1";"SPEAKER";"SPEAKER";"PKMCS_SPEAKER";"SP1";"";"";
+"3";"TRIMMTHUMB";"TRIMMTHUMB";"RV09";"TR1, TR2, TR3";"TRIMMER";"";
+"1";"XPLAINEDMINI328PB";"XPLAINEDMINI328PB";"XPLAINEDMINI328P";"U2";"";"";
